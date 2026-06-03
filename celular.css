@@ -1,0 +1,95 @@
+h1{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.716);
+    border-style: double;
+    background-color: rgba(252, 252, 252, 0.337);
+   
+    
+}
+body{
+    background-color: rgba(177, 175, 175, 0.235);
+    font-family: 'Quantico', sans-serif;
+}
+
+nav { 
+    background-color: #DCDCDC;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a { 
+    color: rgba(68, 1, 1, 0.753);
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: lucida console;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.inicio {
+    padding: 20px;
+}
+
+
+.divino { 
+    background-color: #DCDCDC;
+    padding: 5px;
+    text-align: center;
+}
+
+.divino a { 
+    color: rgba(103, 3, 3, 0.651);
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.divino a:hover {
+    text-decoration: underline;
+}
+
+.card {
+
+    border: 2px solid #ccc;
+    width: 200px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    margin: 5px;
+    float: left;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.card:hover {
+    background-color: khaki;
+}
+
+.nome-produto {
+
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.descricao {
+    font-family: 14px;
+    margin-bottom: 10px;
+}
+
+.botao-comprar {
+    background-color: rgba(97, 3, 3, 0.902);
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.botao-comprar:hover {
+    background-color: rgba(95, 2, 2, 0.922);
+    transform: scale(1.1);
+}
+

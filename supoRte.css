@@ -1,0 +1,39 @@
+.suporte {
+    border: 2px solid #ccc;
+    width: 200px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    margin: 5px;
+    float: left;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+   
+}
+.h1 {
+    color: #000000;
+    text-align: center;
+    font-family: copperplate, serif;
+}
+body {
+    font-family: copperplate, serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 20px;
+}
+.script {
+    font-family: copperplate, serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    
+}
+h2 {
+    color: #333333;
+    text-align: left;
+    font-family: copperplate, serif;
+    margin-top: 20px;
+    font-family: copperplate, serif;
+}
